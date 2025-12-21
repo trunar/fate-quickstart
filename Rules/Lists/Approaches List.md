@@ -1,4 +1,4 @@
-[[Список підходів]]
+[Список підходів](../../Правила/Списки/Список%20підходів.md)
 ## Careful
 A Careful action is when you pay close attention to detail and take your time to do the job right. Lining up a long-range arrow shot. Attentively standing watch. Disarming a bank’s alarm system.
 ## Clever
