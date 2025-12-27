@@ -1,3 +1,4 @@
+[Українська](Українська/Правила/Списки/Список%20навичок.md)
 ## Academics
 Mundane, everyday human knowledge and education, including history, sciences, and medicine. Academics stunts often refer to specialized areas of knowledge and medical skills.
 ## Athletics

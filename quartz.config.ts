@@ -8,15 +8,15 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Fate",
-    pageTitleSuffix: " | Fate",
+    pageTitle: "Fate Quickstart",
+    pageTitleSuffix: " | Fate Quickstart",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "trunar.github.io/Fate",
+    baseUrl: "trunar.github.io/fate-quickstart",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
