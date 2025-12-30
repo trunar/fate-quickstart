@@ -29,26 +29,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#eff1f5",        // Base
+          lightgray: "#ccd0da",    // Surface 0
+          gray: "#bcc0cc",         // Surface 1
+          darkgray: "#6c6f85",     // Subtext 0
+          dark: "#4c4f69",         // Text
+          secondary: "#1e66f5",    // Blue
+          tertiary: "#179299",     // Teal
+          highlight: "rgba(32, 159, 181, 0.15)", // Sapphire (low opacity)
+          textHighlight: "#df8e1d88",            // Yellow (semi-transparent)
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#1e1e2e",        // Base
+          lightgray: "#313244",    // Surface 0
+          gray: "#45475a",         // Surface 1
+          darkgray: "#a6adc8",     // Subtext 0
+          dark: "#cdd6f4",         // Text
+          secondary: "#89b4fa",    // Blue
+          tertiary: "#94e2d5",     // Teal
+          highlight: "rgba(116, 199, 236, 0.15)", // Sapphire (low opacity)
+          textHighlight: "#f9e2af88",             // Yellow (semi-transparent)
         },
       },
     },
