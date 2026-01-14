@@ -48,7 +48,7 @@ const config: QuartzConfig = {
           secondary: "#89b4fa",    // Blue
           tertiary: "#94e2d5",     // Teal
           highlight: "rgba(116, 199, 236, 0.15)", // Sapphire (low opacity)
-          textHighlight: "#f9e2af88",             // Yellow (semi-transparent)
+          textHighlight: "#f9e2af44",             // Yellow (semi-transparent)
         },
       },
     },
