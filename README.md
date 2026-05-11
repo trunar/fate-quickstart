@@ -1,18 +1,19 @@
-# Quartz v4
+# 📑 Fate Quickstart
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Welcome to the **Fate Quickstart Wiki** repository.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+This repository stores the source files for our Quartz-based documentation. For the most user-friendly experience, we recommend using the **Full Wiki** hosted on GitHub Pages.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+---
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## 📖 About
 
-## Sponsors
+A collection of core rules for the Fate family of tabletop RPGs, available in English and Ukrainian. This resource includes a quickstart base, character pregens, examples of mechanics, and other supporting materials for players and GMs.
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+---
+
+## 🚀 Visit the Wiki
+
+The complete **Fate Quickstart**, including interactive rules and navigation, is available here:
+
+👉 **[https://trunar.github.io/fate-quickstart/](https://trunar.github.io/fate-quickstart/)**
