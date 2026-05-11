@@ -1,0 +1,185 @@
+[Українська](Українська/Прегени/Аспекти.md)
+## High Concepts
+### Mundane
+- Washed-Up Private Eye with a Nose for Trouble
+- Small-Town Sheriff in Over My Head
+- Retired Soldier Who Can't Leave the War Behind
+- Journalist Who Knows Too Much
+- Con Artist with a Conscience
+- Disgraced Doctor Still Saving Lives
+- Ex-Cult Member Starting Over
+- Burned Spy Living Off the Grid
+- Getaway Driver Who Never Asks Questions
+- Amateur Sleuth with Too Much Free Time
+- Street Medic in a City That Forgot the Poor
+- Bounty Hunter Who Prefers Them Alive
+- Fixers Fixer, The Person They Call When It Goes Wrong
+- Veteran Negotiator Allergic to Gunfights
+- Underground Lawyer for People the Law Forgot
+### Fantasy
+- Last Heir to a Cursed Bloodline
+- Witch Who Bargained Away Her Name
+- Half-Demon Trying to Pass as Human
+- Knight of a Dead God
+- Necromancer Who Only Raises Willing Dead
+- Exiled Fae Stuck in the Mortal World
+- Oracle Who Sees Everything Except Her Own Future
+- Golem with a Soul No One Believes In
+- Shapeshifter Who Forgot Their Original Face
+- Vampire Who Still Pretends to Eat Food
+- Druid Whose Grove Was Paved Over
+- Paladin Whose Faith Is Complicated
+- Warlock Bound to a Contract She Never Signed
+- Monster Hunter Who Is Also the Monster
+- Chosen One Who Chose Wrong
+### Sci-Fi
+- Rogue AI Inhabiting a Stolen Body
+- Clone Who Outlived Her Original
+- Disgraced Fleet Admiral Running Cargo Runs
+- Cybernetically Enhanced Corporate Dropout
+- Alien Diplomat Pretending to Be Human
+- Time Traveler Stuck in the Wrong Century
+- Gene-Hacked Soldier Trying to Forget the War
+- Last Organic Human on a Station of Cyborgs
+- Bounty Hunter Licensed to Kill Unlicensed AI
+- Ship AI Whose Ship Was Destroyed
+- Terraformer Who Made a Planet Wrong
+- Black Market Augmentation Surgeon
+- Uploaded Consciousness in a Borrowed Body
+- Psychic Soldier Classified as a Weapon
+- Salvager Who Found Something That Should Stay Lost
+### Pulp / Action
+- Two-Fisted Archaeologist with a Death Wish
+- Masked Vigilante Nobody Suspects
+- Ace Pilot Who Flies Anything for the Right Price
+- Prizefighter with a Heart of Tarnished Gold
+- Jungle Queen Raised by the Wrong Animals
+- Gadgeteer Genius Surrounded by Simpletons
+- Dashing Rogue Wanted on Three Continents
+- Occult Detective Who Doesn't Believe in the Occult
+- Big Game Hunter Now Hunted by Bigger Game
+- Daredevil Stuntwoman Between Jobs
+---
+## Troubles
+### Personal Demons
+- The Bottle Finds Me Before I Find It
+- I Trust Too Easily and Pay for It Every Time
+- Can't Walk Away from a Fight I Should Lose
+- My Anger Has Anger of Its Own
+- Guilt Is the Only Feeling I Have Left
+- I Lie Even When the Truth Would Help
+- My Compassion Gets Everyone Hurt
+- I Always Have to Be the Smartest Person Here
+- Reckless When I Should Be Patient
+- I Fall in Love at the Worst Possible Times
+- Haunted by the One I Couldn't Save
+- I Burn Every Bridge Eventually
+- The Nightmares Make It Hard to Function
+- I Need to Be Needed
+- Jealousy Dressed Up as Principle
+### External Pressures
+- Wanted Dead or Alive, Mostly Dead
+- The Organization I Betrayed Has a Long Memory
+- My Family Expects Me to Fail
+- Blackmailed by Someone Who Knows Everything
+- The Debt I Owe Can Never Be Fully Repaid
+- My Mentor Turned Out to Be the Villain
+- Cursed by a Witch Who Had Good Reasons
+- My Face Is on Wanted Posters in Four Cities
+- I Owe Favours to Very Dangerous People
+- Every Authority Figure Hates Me on Principle
+- My Past Identity Keeps Surfacing
+- There Is a Prophecy and It's Probably About Me
+- Someone Is Impersonating Me and Doing It Better
+- I Am the Heir to a Throne I Don't Want
+- My Powers Are Illegal Where I Live
+### Relational
+- My Ex Is Now My Enemy's Right Hand
+- I Can't Say No to People I Care About
+- My Reputation Precedes Me and It's Wrong
+- Every Partner I've Had Has Left or Died
+- My Brother Chose the Wrong Side
+- The Only Person Who Understands Me Is Dangerous
+- My Protégé Is More Ruthless Than I Intended
+- I Made a Promise I Can't Keep and Can't Break
+- My Loyalty Is Weaponized Against Me Constantly
+- I Keep Secrets from Everyone Including Myself
+---
+## Phase Trio
+### Phase One – Your Story (Background & Origin)
+- Grew Up on the Wrong Side of Every Border
+- Raised to Be a Weapon, Chose to Be a Person
+- The Fire That Took Everything Also Made Me
+- Apprenticed to a Master Who Disappeared
+- Child Soldier Who Survived When Others Didn't
+- Scholarship Kid in a School Full of Enemies
+- Street Kid Who Learned Every Trick to Survive
+- Grew Up Hearing Stories That Turned Out to Be True
+- The Town I Come From No Longer Exists
+- Born into Privilege, Exiled from It Early
+- I Was the Experiment, Not the Scientist
+- Raised in a Cult, Escaped with Questions
+- My Whole Childhood Was a Cover Story
+- The War Was My Entire Education
+- Found Family After Losing the Real One
+### Phase Two – Crossing Paths (First Adventure)
+- We Met Over a Body Neither of Us Killed
+- Saved Each Other Without Meaning To
+- Rivals Before We Were Anything Else
+- The Heist That Was Supposed to Be Simple
+- Stranded Together After Everything Went Wrong
+- We Were on Opposite Sides of That Fight
+- The Only Other Survivor
+- Shared a Cell for a Week, Now Share Everything
+- We Both Wanted the Same Thing and Made a Deal
+- She Pulled Me Out of the Wreckage
+- The Night We Accidentally Started a Revolution
+- We Agreed to Lie to the Same People
+- He Knew My Real Name Before I Told Him
+- We Burned the Evidence Together
+- The Mission That Bonded and Broke Us
+### Phase Three – Crossing Paths Again (Guest Role)
+- I Owed Her One and She Collected
+- Showed Up Uninvited and Saved the Day
+- The Backup Plan Nobody Called For
+- We Finished What They Started
+- I Was the Distraction, She Was the Point
+- Nobody Expected Us to Work Together Again
+- Pulled Back In Against My Better Judgment
+- I Covered for Him and He Knows It
+- The Second Time Was Worse and More Honest
+- She Trusted Me with the Part That Mattered
+- We Disagreed the Whole Time and Still Won
+- The Favor That Changed Everything Between Us
+- I Lied to Protect Her and She Figured It Out
+- Last Resort, Every Single Time
+- We Make a Good Team and That Terrifies Me
+---
+## Setting & World Flavor
+### Place-Tied
+- Last Native of a City That Was Swallowed by the Sea
+- The Mountains Know My Name
+- I Know Every Back Alley in This Rotten City
+- Exile from the Kingdom That No Longer Exists
+- The Desert Made Me and the Desert Wants Me Back
+- Born Beneath a Sky That No Longer Exists
+- This Station Is the Only Home I've Ever Known
+- The Forest Doesn't Belong to Anyone Except Me
+### Faction & Allegiance
+- True Believer in a Cause That Is Starting to Crack
+- Agent of an Organization I'm Not Sure I Trust
+- Neutral by Reputation, Partisan by Necessity
+- Sworn to a House Whose Name I Cannot Say
+- Defector with Proof Nobody Wants to Hear
+- Card-Carrying Member of the Underground
+- Veteran of the Wrong Side of a Just War
+- The Factions All Think I'm Working for Them
+### Reputation & Legend
+- The Story About Me Is Better Than the Truth
+- Famous in the Places You Don't Want to Be Famous
+- The Name Opens Doors and Closes Throats
+- My Legend Is Bigger Than My Body
+- Infamous for Something I Didn't Quite Do
+- The Hero of a Battle Everyone Wants to Forget
+- They Say I Died Once, They're Not Entirely Wrong
+- Notorious, Which Is Different from Respected
