@@ -29,26 +29,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#eff1f5",        // Base
-          lightgray: "#ccd0da",    // Surface 0
-          gray: "#bcc0cc",         // Surface 1
-          darkgray: "#6c6f85",     // Subtext 0
-          dark: "#4c4f69",         // Text
-          secondary: "#1e66f5",    // Blue
-          tertiary: "#179299",     // Teal
-          highlight: "rgba(32, 159, 181, 0.15)", // Sapphire (low opacity)
-          textHighlight: "#df8e1d88",            // Yellow (semi-transparent)
+          light: "#fafafb",       // Window/background
+          lightgray: "#deddda",   // Borders
+          gray: "#9a9996",        // Stronger borders / graph
+          darkgray: "#3d3846",    // Body text
+          dark: "#241f31",        // Headers/icons
+          secondary: "#3584e4",   // Adwaita blue accent
+          tertiary: "#1c71d8",    // Hover/visited
+          highlight: "rgba(53, 132, 228, 0.15)",
+          textHighlight: "#f5c21144",
         },
         darkMode: {
-          light: "#1e1e2e",        // Base
-          lightgray: "#313244",    // Surface 0
-          gray: "#45475a",         // Surface 1
-          darkgray: "#a6adc8",     // Subtext 0
-          dark: "#cdd6f4",         // Text
-          secondary: "#89b4fa",    // Blue
-          tertiary: "#94e2d5",     // Teal
-          highlight: "rgba(116, 199, 236, 0.15)", // Sapphire (low opacity)
-          textHighlight: "#f9e2af44",             // Yellow (semi-transparent)
+          light: "#222226",
+          lightgray: "#3d3846",
+          gray: "#5e5c64",
+          darkgray: "#ffffffcc",
+          dark: "#ffffff",
+          secondary: "#62a0ea",
+          tertiary: "#3584e4",
+          highlight: "rgba(98, 160, 234, 0.15)",
+          textHighlight: "#f6d32d44",
         },
       },
     },
